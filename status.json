@@ -1,0 +1,10 @@
+{
+  "data": {
+    "enabled": true,
+    "allowed": [],
+    "payload_sha256": "1ad2828842b997dbf85ab20cbd73a4dcf3f240d54e70f9a7a7f48057a1bb950c",
+    "issued": 1792810977,
+    "message": ""
+  },
+  "sig": "rXyk0Oq/Oyrg9Yzycr9x8FoRzPJDiXlNoqk2ESv8DMyHk5v9O/FdfP2vo1RJLGlikNgCeSyuTJDCxBCfYNDuDg=="
+}
