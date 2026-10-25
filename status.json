@@ -1,10 +1,13 @@
 {
   "data": {
     "enabled": true,
-    "allowed": [],
+    "allowed": [
+      "friend1",
+      "me"
+    ],
     "payload_sha256": "1ad2828842b997dbf85ab20cbd73a4dcf3f240d54e70f9a7a7f48057a1bb950c",
-    "issued": 1792810977,
+    "issued": 1792911102,
     "message": ""
   },
-  "sig": "rXyk0Oq/Oyrg9Yzycr9x8FoRzPJDiXlNoqk2ESv8DMyHk5v9O/FdfP2vo1RJLGlikNgCeSyuTJDCxBCfYNDuDg=="
+  "sig": "lc47jcR+Km83jsEuYOtqt1YDjImL5RSPC8t1NNopKkWP6S81Xl4sQKibKhexFXNsn9r+lBWfqM2pXxcuEDBwAQ=="
 }
