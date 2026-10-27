@@ -2,12 +2,12 @@
   "data": {
     "enabled": true,
     "allowed": [
-      "friend1",
+      "Ziyad",
       "me"
     ],
     "payload_sha256": "1ad2828842b997dbf85ab20cbd73a4dcf3f240d54e70f9a7a7f48057a1bb950c",
-    "issued": 1792911102,
+    "issued": 1793081500,
     "message": ""
   },
-  "sig": "lc47jcR+Km83jsEuYOtqt1YDjImL5RSPC8t1NNopKkWP6S81Xl4sQKibKhexFXNsn9r+lBWfqM2pXxcuEDBwAQ=="
+  "sig": "2XrdXbDR6uB/kU1JcBuBQDJyVhzxdAAxUei7uvWk/AALBKM5KiuDhTEFspZtpyJNib826IMCaEw5xR0TZfBgDQ=="
 }
